@@ -1363,6 +1363,8 @@ body.visible-sidebar {
 
 .banner-section .slide-item {
   position: relative;
+  background-size: cover;
+  background-position: center;
   width: 100%;
   padding: 0px;
   overflow: hidden;

@@ -71,32 +71,9 @@ function Main() {
           <div className='side-menu'>
             <ul className='navigation clearfix'>
               <li className='current dropdown'>
-                <Link
-                  to='#'
-                  onClick={() => setShow(show === true ? false : true)}
-                >
+                <Link to='/' onClick={() => setActive(false)}>
                   Home
-                  <button type='button' className='btn-expander'>
-                    <i className='far fa-angle-down'></i>
-                  </button>
                 </Link>
-                <ul style={{ display: show ? 'block' : 'none' }}>
-                  <li>
-                    <Link to='/' onClick={() => setActive(false)}>
-                      Home 1 Left Header
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to='/hometwo' onClick={() => setActive(false)}>
-                      Home 1 Center Header
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to='/homethree' onClick={() => setActive(false)}>
-                      Home 3 Video Hero
-                    </Link>
-                  </li>
-                </ul>
               </li>
               <li className='dropdown'>
                 <Link
@@ -213,7 +190,7 @@ function Main() {
             </ul>
           </div>
 
-          <h2>Visit Us</h2>
+          {/* <h2>Visit Us</h2>
           <ul className='info'>
             <li>
               Restaurant St, Delicious City, <br /> London 9578, UK{' '}
@@ -233,7 +210,7 @@ function Main() {
             <div className='bk-no'>
               <Link to='tel:+88-123-123456'>+88-123-123456</Link>
             </div>
-          </div>
+          </div> */}
         </div>
       </section>
       {Nav && (

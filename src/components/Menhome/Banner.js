@@ -7,7 +7,7 @@ import Slidethree from '../../assets/images/main-slider/slider-3.jpg'
 import bookicon1 from '../../assets/images/resource/book-icon-1.png'
 import 'swiper/swiper.min.css'
 import SwiperCore, { Navigation } from 'swiper'
-import 'swiper/swiper.min.css'
+// import 'swiper/swiper.min.css'
 
 SwiperCore.use([Navigation])
 
