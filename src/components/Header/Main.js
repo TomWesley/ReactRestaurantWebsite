@@ -113,11 +113,7 @@ function Main() {
                   About Us
                 </Link>
               </li>
-              <li>
-                <Link to='/ourchefs' onClick={() => setActive(false)}>
-                  Our chefs
-                </Link>
-              </li>
+
               <li className='dropdown'>
                 {/* Additional pages can be added here by uncommenting */}
                 {/* <Link

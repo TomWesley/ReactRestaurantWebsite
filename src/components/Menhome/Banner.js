@@ -75,7 +75,7 @@ function Banner() {
                           >
                             <div className='link'>
                               <Link
-                                to='#'
+                                to='menuone'
                                 className='theme-btn btn-style-two clearfix'
                               >
                                 <span className='btn-wrap'>

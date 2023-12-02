@@ -11,13 +11,8 @@ import Img from '../../assets/images/background/banner-image-1.jpg'
 function Main() {
   return (
     <>
-      <Bredcrumb subtitle="About Us" title="OUR STORY" Img={Img} />
+      <Bredcrumb subtitle='About Us' title='OUR STORY' Img={Img} />
       <Aboutsec />
-      <Winningchef />
-      <Aboutservice />
-      <Testimonialsabout />
-      <Aboutwhyus />
-      <Sliderabout />
     </>
   )
 }
