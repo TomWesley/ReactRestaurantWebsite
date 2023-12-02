@@ -2,8 +2,8 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import bg22 from '../../../assets/images/background/bg-22.png'
 import bg23 from '../../../assets/images/background/bg-23.png'
-import menusdesertone from '../../../assets/images/resource/menus-desert.jpg'
-import menusdrinksone from '../../../assets/images/resource/menus-drinks.jpg'
+import menusentreeone from '../../../assets/images/resource/entree-one.jpg'
+import menusdessertone from '../../../assets/images/resource/dessert-one.jpg'
 
 function Offers() {
   return (
@@ -12,7 +12,7 @@ function Offers() {
         <div className='auto-container'>
           <div className='title-box centered'>
             <div className='subtitle'>
-              <span>sweet & sweet</span>
+              <span>For Savoring</span>
             </div>
 
             <div className='pattern-image'>
@@ -24,14 +24,14 @@ function Offers() {
               />
             </div>
 
-            <h2>Desserts</h2>
+            <h2>Entrees</h2>
           </div>
 
           <div className='row clearfix'>
             <div className='image-col col-lg-7 col-md-12 col-sm-12'>
               <div className='inner'>
                 <div className='image'>
-                  <img src={menusdesertone} alt='' />
+                  <img src={menusentreeone} alt='' />
                 </div>
               </div>
             </div>
@@ -146,14 +146,14 @@ function Offers() {
               />
             </div>
 
-            <h2>Drinks Menu</h2>
+            <h2>Desserts</h2>
           </div>
 
           <div className='row clearfix'>
             <div className='image-col col-lg-7 col-md-12 col-sm-12'>
               <div className='inner'>
                 <div className='image'>
-                  <img src={menusdrinksone} alt='' />
+                  <img src={menusdessertone} alt='' />
                 </div>
               </div>
             </div>

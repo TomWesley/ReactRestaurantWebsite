@@ -59,30 +59,7 @@ function Main() {
                   className='inner wow fadeInLeft'
                   data-wow-delay='0ms'
                   data-wow-duration='1500ms'
-                >
-                  <ul className='links'>
-                    <li>
-                      {' '}
-                      <Link to='/'>Home</Link>
-                    </li>
-                    <li>
-                      {' '}
-                      <Link to='/menu'>Menus</Link>
-                    </li>
-                    <li>
-                      {' '}
-                      <Link to='/about'>About us</Link>
-                    </li>
-                    <li>
-                      {' '}
-                      <Link to='/ourchefs'>Our chefs</Link>
-                    </li>
-                    <li>
-                      {' '}
-                      <Link to='/contact'>Contact</Link>
-                    </li>
-                  </ul>
-                </div>
+                ></div>
               </div>
 
               <div className='footer-col links-col last col-lg-3 col-md-6 col-sm-12'>
@@ -90,30 +67,7 @@ function Main() {
                   className='inner wow fadeInRight'
                   data-wow-delay='0ms'
                   data-wow-duration='1500ms'
-                >
-                  <ul className='links'>
-                    <li>
-                      {' '}
-                      <Link to='https://www.facebook.com'>facebook</Link>
-                    </li>
-                    <li>
-                      {' '}
-                      <Link to='https://www.instagram.com'>instagram</Link>
-                    </li>
-                    <li>
-                      {' '}
-                      <Link to='https://twitter.com'>Twitter</Link>
-                    </li>
-                    <li>
-                      {' '}
-                      <Link to='https://www.youtube.com'>Youtube</Link>
-                    </li>
-                    <li>
-                      {' '}
-                      <Link to='https://www.google.com/maps'>Google map</Link>
-                    </li>
-                  </ul>
-                </div>
+                ></div>
               </div>
             </div>
           </div>
