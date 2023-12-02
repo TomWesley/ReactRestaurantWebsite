@@ -88,17 +88,17 @@ function Main() {
                 <ul style={{ display: menu ? 'block' : 'none' }}>
                   <li>
                     <Link to='/menuone' onClick={() => setActive(false)}>
-                      Menu List 1
+                      Drinks
                     </Link>
                   </li>
                   <li>
                     <Link to='/menutwo' onClick={() => setActive(false)}>
-                      Menu List 2
+                      Food
                     </Link>
                   </li>
                   <li>
                     <Link to='/menuthree' onClick={() => setActive(false)}>
-                      Menu List 3
+                      Brunch (Saturday and Sunday)
                     </Link>
                   </li>
                   <li>

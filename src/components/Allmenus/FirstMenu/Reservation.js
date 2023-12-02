@@ -1,13 +1,13 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import Bgone from '../../../assets/images/background/image-10.jpg'
-import Bgtwo from '../../../assets/images/background/image-11.jpg';
+import Bgtwo from '../../../assets/images/background/image-11.jpg'
 
 function Reservation() {
-    return (
-        <>
-            <section className="reserve-section style-two">
-                <div className="image-layer" style={{ backgroundImage: `url(${Bgone})` }}></div>
+  return (
+    <>
+      <section className='reserve-section style-two'>
+        {/* <div className="image-layer" style={{ backgroundImage: `url(${Bgone})` }}></div>
                 <div className="auto-container">
                     <div className="outer-box">
                         <div className="row clearfix">
@@ -128,10 +128,10 @@ function Reservation() {
                             </div>
                         </div>
                     </div>
-                </div>
-            </section>
-        </>
-    )
+                </div> */}
+      </section>
+    </>
+  )
 }
 
 export default Reservation

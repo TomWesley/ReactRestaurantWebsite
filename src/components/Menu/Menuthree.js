@@ -9,11 +9,11 @@ import Img from '../../assets/images/background/banner-image-2.jpg'
 function Menuthree() {
   return (
     <>
-      <Bredcrumb subtitle="Our Menu 3" title="DELICIOUS & AMAZING" Img={Img} />
+      <Bredcrumb subtitle='Our Menu 3' title='DELICIOUS & AMAZING' Img={Img} />
       <Appetizers />
       <Privateevent />
       <Offers />
-      <Reservation />
+      {/* <Reservation /> */}
     </>
   )
 }
