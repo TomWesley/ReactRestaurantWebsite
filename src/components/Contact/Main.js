@@ -6,7 +6,11 @@ import Img from '../../assets/images/background/banner-image-4.jpg'
 function Main() {
   return (
     <>
-      <Bredcrumb title="ANY QUERY ?" subtitle="Contact Us" Img={Img} />
+      <Bredcrumb
+        title="We'd Love to Hear From You"
+        subtitle='Contact Us'
+        Img={Img}
+      />
       <Contactbanner />
     </>
   )

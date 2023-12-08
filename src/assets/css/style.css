@@ -6885,7 +6885,7 @@ body.visible-sidebar {
   position: absolute;
   left: 0;
   width: 100%;
-  top: -40px;
+  top: 0px;
   bottom: 0;
   -webkit-transition: all 500ms ease;
   -moz-transition: all 500ms ease;

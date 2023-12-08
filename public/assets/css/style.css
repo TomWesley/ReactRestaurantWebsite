@@ -1338,7 +1338,7 @@ body.visible-sidebar {
   height: 100%;
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 20%;
   -ms-transform: scale(1);
   transform: scale(1);
   -webkit-transition: all 0ms linear 0ms;

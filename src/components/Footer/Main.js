@@ -76,12 +76,12 @@ function Main() {
         <div className='footer-bottom'>
           <div className='auto-container'>
             <div className='copyright'>
-              &copy; 2022 Restaurt. All Rights Reserved | Crafted by{' '}
+              &copy; 2023 All Rights Reserved | Crafted by{' '}
               <Link
-                to='https://themeforest.net/user/kalanidhithemes'
+                to='https://www.linkedin.com/in/thomasjohnwesley/'
                 target='blank'
               >
-                Kalanidhi Themes
+                Thomas Wesley
               </Link>
             </div>
           </div>
