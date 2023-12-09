@@ -52,7 +52,7 @@ function Contactbanner() {
                       Email : booking@domainname.com
                     </div>
                     <div className='more-link'>
-                      <Link to='#'>(347) 335-0006</Link>
+                      <Link>(347) 335-0006</Link>
                     </div>
                   </div>
                 </div>

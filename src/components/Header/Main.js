@@ -101,11 +101,6 @@ function Main() {
                       Brunch (Saturday and Sunday)
                     </Link>
                   </li>
-                  <li>
-                    <Link to='/menufour' onClick={() => setActive(false)}>
-                      Menu List 4
-                    </Link>
-                  </li>
                 </ul>
               </li>
               <li>

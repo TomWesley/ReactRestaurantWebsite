@@ -71,12 +71,12 @@ function Aboutsec() {
               >
                 <ul className='info'>
                   <li>
-                    <strong>Lunch Time</strong>Monday to Sunday <br />
-                    11.00 am - 2.30pm
+                    <strong>Brunch</strong>Saturday & Sunday <br />
+                    11.30 am - 3.30pm
                   </li>
                   <li>
-                    <strong>Dinner Time</strong>Monday to Sunday <br />
-                    5.30 pm - 11.30 pm
+                    <strong>Evenings</strong>Tuesday to Friday <br />
+                    5.00 pm - 11.00 pm
                   </li>
                   <li className='separator'>
                     <span></span>
@@ -84,12 +84,9 @@ function Aboutsec() {
                   <li>
                     <strong>Contact Us</strong>
                     <span className='address'>
-                      Restaurant St, Delicious City, London 9578, UK
+                      188 Grand St, Brooklyn, NY 11211
                     </span>{' '}
-                    <Link to='tel:+88-123-123456'>+88-123-123456</Link> <br />
-                    <Link to='mailto:reservation@restro.com'>
-                      reservation@restro.com
-                    </Link>
+                    <Link>(347) 335-0006</Link> <br />
                   </li>
                 </ul>
               </div>

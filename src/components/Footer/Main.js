@@ -37,7 +37,7 @@ function Main() {
                         <li>188 Grand St, Brooklyn, NY 11211</li>
 
                         <li>
-                          <Link to='tel:+88-123-123456'>(347) 335-0006</Link>
+                          <Link>(347) 335-0006</Link>
                         </li>
                         <li>Open : 5:00 pm - 11:00 pm</li>
                       </ul>
