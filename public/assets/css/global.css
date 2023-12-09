@@ -707,6 +707,7 @@ figure {
   border-radius: 0px;
   overflow: hidden;
   transition: all 0.3s ease 0s;
+  background-color: black;
 }
 
 .btn-style-two:before {

@@ -54,20 +54,17 @@ function Banner() {
                               {index === 0
                                 ? 'Flavors Inspired by'
                                 : index === 1
-                                ? 'Where every flavor'
-                                : 'For the love of'}
+                                ? 'Where Every Detail'
+                                : 'For The Love Of'}
                               <br />
                               {index === 0
                                 ? 'the Seasons'
                                 : index === 1
-                                ? 'tells a story'
-                                : 'delicious food'}
+                                ? 'Tells A Story'
+                                : 'Our Neighbors'}
                             </span>
                           </h1>
-                          <div className='text'>
-                            Come with family & feel the joy of mouthwatering
-                            food
-                          </div>
+
                           <div
                             className='links-box wow fadeInUp'
                             data-wow-delay='0ms'

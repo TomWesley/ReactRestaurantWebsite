@@ -1453,7 +1453,9 @@ body.visible-sidebar {
   position: relative;
   text-transform: uppercase;
   font-weight: 700;
-  color: var(--main-color);
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #f6f1f3, 0 0 40px #f5f2f3,
+    0 0 50px #f7f3f5, 0 0 60px #f7f3f5, 0 0 70px #f6f3f5;
+  color: black;
   font-size: var(--font-12);
   letter-spacing: 0.4em;
   margin-bottom: var(--margin-bottom-10);
