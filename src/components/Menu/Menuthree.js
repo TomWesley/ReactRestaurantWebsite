@@ -4,15 +4,14 @@ import Reservation from '../Allmenus/FirstMenu/Reservation'
 import Appetizers from '../Allmenus/Thrdmenu/Appetizers'
 import Privateevent from '../Allmenus/Thrdmenu/Privateevent'
 import Bredcrumb from '../Bredcrumb/Main'
-import Img from '../../assets/images/background/banner-image-2.jpg'
+import Img from '../../assets/images/background/brunch.jpg'
 
 function Menuthree() {
   return (
     <>
-      <Bredcrumb subtitle='Our Menu 3' title='DELICIOUS & AMAZING' Img={Img} />
+      <Bredcrumb subtitle='Brunch' title='Start The Day Right' Img={Img} />
       <Appetizers />
-      <Privateevent />
-      <Offers />
+
       {/* <Reservation /> */}
     </>
   )

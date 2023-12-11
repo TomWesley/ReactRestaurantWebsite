@@ -9,7 +9,7 @@ function Menuone() {
   return (
     <>
       <Startermenu />
-      <Offer />
+      {/* <Offer /> */}
       {/* <Reservation /> */}
     </>
   )
