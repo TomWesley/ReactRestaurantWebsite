@@ -1722,6 +1722,7 @@ body.visible-sidebar {
 }
 
 .title-box .subtitle {
+  padding-top: 100px;
   position: relative;
   text-transform: uppercase;
   font-weight: 700;
